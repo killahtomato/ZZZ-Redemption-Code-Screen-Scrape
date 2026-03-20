@@ -1,4 +1,4 @@
-# zzz_codes_ui_tomato_crimson_clean.py
+# ZZZ redemption codes for funzies
 import sys
 import re
 from playwright.sync_api import sync_playwright
